@@ -1,0 +1,25 @@
+# ESP-IDF build artifacts
+build/
+
+# Local generated configuration
+sdkconfig
+sdkconfig.old
+
+# IDE and editor settings
+.vscode/
+.idea/
+.claude/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
