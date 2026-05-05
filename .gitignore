@@ -2,7 +2,6 @@
 build/
 
 # Local generated configuration
-sdkconfig
 sdkconfig.old
 
 # IDE and editor settings
